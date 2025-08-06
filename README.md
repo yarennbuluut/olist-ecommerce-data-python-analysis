@@ -1,20 +1,43 @@
-# olist-ecommerce-data-python-analysis
-Exploratory Data Analysis of the Olist Brazilian E-Commerce dataset using Python. Includes customer segmentation, order behavior, review distributions, and revenue insights using Pandas, Matplotlib, and Seaborn.
+# Nobel Prize Winners Data Analysis with Python
 
-# Olist E-Commerce Data Analysis with Python 
+This project presents an exploratory data analysis (EDA) of the Nobel Prize Winners dataset using Python.
 
-This project explores the Brazilian E-Commerce Public Dataset by Olist using Python.  
-The analysis covers:
+The goal is to discover patterns and insights related to Nobel laureates over the years, focusing on gender distribution, countries, and award categories.
 
-- Customer behavior and distribution
-- Review score breakdowns
-- Revenue and payment methods
-- Cancellation patterns
+---
 
- Tools & Libraries Used:
-- Python (Pandas, NumPy)
-- Matplotlib & Seaborn
-- Plotly (for interactive plots)
-- Jupyter Notebook
+## Key Areas Explored
 
- Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- Gender distribution among Nobel laureates  
+- Country-wise winner counts  
+- Popular award categories  
+- Trends over time (years, frequency, diversity)
+
+---
+
+## Tools & Libraries Used
+
+- **Python**  
+- **Pandas**, **NumPy** – for data manipulation  
+- **Jupyter Notebook** – for analysis and documentation  
+- *(Note: All visualizations were created within the notebook environment)*
+
+---
+
+## Dataset Source
+
+The dataset is publicly available and contains details of Nobel Prize winners including name, gender, country, award year, and category.
+
+---
+
+## Project Purpose
+
+This project was created to improve my skills in data analysis using Python, particularly with real-world datasets.  
+It helped me practice data wrangling, grouping, aggregation, and identifying patterns without external visualization tools – all within Jupyter Notebook.
+
+---
+
+##  View the Project
+
+You can view the full analysis via this notebook:  
+👉 [Google Drive Link](https://drive.google.com/drive/folders/1QS5Adt_3Ur7-B_tdH39KnXSx_7zyOKzq?usp=sharing)
