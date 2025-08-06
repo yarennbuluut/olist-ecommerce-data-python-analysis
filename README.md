@@ -11,10 +11,10 @@ The analysis covers:
 - Revenue and payment methods
 - Cancellation patterns
 
-🔧 Tools & Libraries Used:
+ Tools & Libraries Used:
 - Python (Pandas, NumPy)
 - Matplotlib & Seaborn
 - Plotly (for interactive plots)
 - Jupyter Notebook
 
-🔗 Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+ Dataset source: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
